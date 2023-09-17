@@ -1,4 +1,4 @@
-<h1 align="center">Loop Habit Tracker</h1>
+<h1 align="center">Atomic Habit Tracker</h1>
 <p align="center">
   <a href="https://github.com/iSoron/uhabits/actions?query=workflow%3A%22Build+%26+Test%22">
     <img src="https://github.com/iSoron/uhabits/workflows/Build%20&%20Test/badge.svg" />
