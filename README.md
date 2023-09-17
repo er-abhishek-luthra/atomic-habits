@@ -1,5 +1,5 @@
 <h1 align="center">Atomic Habit Tracker</h1>
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/iSoron/uhabits/actions?query=workflow%3A%22Build+%26+Test%22">
     <img src="https://github.com/iSoron/uhabits/workflows/Build%20&%20Test/badge.svg" />
   </a>
@@ -9,7 +9,7 @@
   <a href="https://github.com/iSoron/uhabits/discussions">
     <img src="https://img.shields.io/badge/GitHub-Discussions-%23fc4ebc" />
   </a>
-</p>
+</p> -->
 
 Loop is a mobile app that helps you create and maintain good habits,
 allowing you to achieve your long-term goals. Detailed graphs and statistics
