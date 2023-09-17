@@ -277,7 +277,7 @@
 
         <provider
             android:name="androidx.core.content.FileProvider"
-            android:authorities="org.isoron.uhabits"
+            android:authorities="com.chargingwatts.atomichabits"
             android:exported="false"
             android:grantUriPermissions="true">
             <meta-data
