@@ -91,10 +91,6 @@ contribute, even if you are not a software developer.
 
 ## License
 
-<img align="right" src="https://www.gnu.org/graphics/gplv3-88x31.png">
-
-  Copyright (C) 2016-2021 Álinson Santos Xavier <isoron@gmail.com>
-
   Atomic Habit Tracker is free software: you can redistribute it and/or modify
   it under the terms of the GNU General Public License as published by the
   Free Software Foundation, either version 3 of the License, or (at your
@@ -120,9 +116,5 @@ contribute, even if you are not a software developer.
 [screen4th]: screenshots/4.thumb.png
 [screen5th]: screenshots/5.thumb.png
 [screen6th]: screenshots/6.thumb.png
-[poedit]: https://translate.loophabits.org
-[playstore]: https://play.google.com/store/apps/details?id=org.isoron.uhabits
-[releases]: https://github.com/iSoron/uhabits/releases
-[fdroid]: https://f-droid.org/app/org.isoron.uhabits
 [build]: https://github.com/iSoron/uhabits/blob/dev/docs/BUILD.md
-[beta]: https://play.google.com/apps/testing/org.isoron.uhabits
+
