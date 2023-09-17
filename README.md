@@ -30,13 +30,13 @@ source.
 ## Features
 
 * <b>Beautiful, minimalistic and lightweight interface.</b>
-Atomic has an elegant and minimalistic interface that is very easy to use, even for first-time users. Highly optimized for speed, the app works well even on older phones.
+Atomic Habit Tracker has an elegant and minimalistic interface that is very easy to use, even for first-time users. Highly optimized for speed, the app works well even on older phones.
 
 * <b>Habit score.</b>
-Atomic has an advanced formula for calculating the strength of your habits. Every repetition makes your habit stronger and every missed day makes it weaker. A few missed days after a long streak, however, will not completely destroy your progress, unlike many other don't-break-the-chain apps.
+Atomic Habit Tracker has an advanced formula for calculating the strength of your habits. Every repetition makes your habit stronger and every missed day makes it weaker. A few missed days after a long streak, however, will not completely destroy your progress, unlike many other don't-break-the-chain apps.
 
 * <b>Flexible schedules.</b>
-In addition to daily habits, Atomic supports habits with more complex schedules, such as 3 times per week or every other day.
+In addition to daily habits, Atomic Habit Tracker supports habits with more complex schedules, such as 3 times per week or every other day.
 
 * <b>Reminders.</b>
 Schedule notifications to remind you of your habits. Each habit can have its own reminder, at a chosen time of the day. Easily check or dismiss your habit directly from the notification.
@@ -45,27 +45,27 @@ Schedule notifications to remind you of your habits. Each habit can have its own
 Be reminded of your habits whenever you unlock your phone. Colorful widgets allow you to track your habits directly from your home screen, without even opening the app.
 
 * <b>Take control of your data.</b>
-If you want to further analyze your data, or move it to another service, Atomic allows you to export it to spreadsheets (CSV) or to a database file (SQLite). For power users, checkmarks can be added through other apps, such as Tasker.
+If you want to further analyze your data, or move it to another service, Atomic Habit Tracker allows you to export it to spreadsheets (CSV) or to a database file (SQLite). For power users, checkmarks can be added through other apps, such as Tasker.
 
 * <b>No limitations.</b>
-Track as many habits as you wish. Atomic imposes no artificial limits on how many habits you can have. All features are available to all users. There are no in-app purchases.
+Track as many habits as you wish. Atomic Habit Tracker imposes no artificial limits on how many habits you can have. All features are available to all users. There are no in-app purchases.
 
 * <b>Completely ad-free and open source.</b>
 There are no advertisements, annoying notifications or intrusive permissions in this app, and there will never be. The app is completely open-source (GPLv3).
 
 * <b>Works offline and respects your privacy.</b>
-Atomic doesn't require an Internet connection or online account registration. Your confidential data is never sent to anyone. Neither the developers nor any third-parties have access to it.
+Atomic Habit Tracker doesn't require an Internet connection or online account registration. Your confidential data is never sent to anyone. Neither the developers nor any third-parties have access to it.
 
 ## Installing
 
-The easiest way to install Atomic is through the [Google Play Store][playstore] or [F-Droid][fdroid].
+The easiest way to install Atomic Habit Tracker is through the [Google Play Store][playstore] .
 You may also download and install the APK from the [releases page][releases];
 note, however, that the app will not be updated automatically.  To build this
 app from the source code, see [build instructions][build].
 
 ## Contributing
 
-Atomic is an open source project developed entirely by volunteers. If you would
+Atomic Habit Tracker is an open source project developed entirely by volunteers. If you would
 like to contribute to the project, you are very welcome. There are many ways to
 contribute, even if you are not a software developer.
 
