@@ -116,5 +116,4 @@ contribute, even if you are not a software developer.
 [screen4th]: screenshots/4.thumb.png
 [screen5th]: screenshots/5.thumb.png
 [screen6th]: screenshots/6.thumb.png
-[build]: https://github.com/iSoron/uhabits/blob/dev/docs/BUILD.md
 
