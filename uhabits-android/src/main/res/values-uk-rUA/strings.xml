@@ -2,14 +2,14 @@
 <!--
   ~ Copyright (C) 2016-2021 Álinson Santos Xavier <git@axavier.org>
   ~
-  ~ This file is part of Loop Habit Tracker.
+  ~ This file is part of Atomic Habit Tracker.
   ~
-  ~ Loop Habit Tracker is free software: you can redistribute it and/or modify
+  ~ Atomic Habit Tracker is free software: you can redistribute it and/or modify
   ~ it under the terms of the GNU General Public License as published by the
   ~ Free Software Foundation, either version 3 of the License, or (at your
   ~ option) any later version.
   ~
-  ~ Loop Habit Tracker is distributed in the hope that it will be useful, but
+  ~ Atomic Habit Tracker is distributed in the hope that it will be useful, but
   ~ WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
   ~ or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for
   ~ more details.
@@ -18,7 +18,7 @@
   ~ with this program. If not, see <http://www.gnu.org/licenses/>.
   -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Трекер звичок Loop</string>
+    <string name="app_name">Трекер звичок Atomic</string>
     <string name="main_activity_title">Звички</string>
     <string name="action_settings">Налаштування</string>
     <string name="edit">Змінити</string>
@@ -68,7 +68,7 @@
     <string name="check">Відзначити</string>
     <string name="snooze">Відкласти</string>
     <string name="intro_title_1">Вітаємо</string>
-    <string name="intro_description_1">Трекер звичок Loop допомагає Вам розвивати і підтримувати корисні звички.</string>
+    <string name="intro_description_1">Трекер звичок Atomic допомагає Вам розвивати і підтримувати корисні звички.</string>
     <string name="intro_title_2">Додайте нові звички</string>
     <string name="intro_description_2">Щодня, після виконання Вашої звички, ставте пташку в програмі.</string>
     <string name="intro_title_4">Відстежуйте свій поступ</string>

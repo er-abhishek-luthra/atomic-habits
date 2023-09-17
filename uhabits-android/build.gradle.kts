@@ -35,10 +35,10 @@ android {
 
     defaultConfig {
         versionCode = 20200
-        versionName = "2.2.0"
+        versionName = "1.4.1"
         minSdk = 28
-        targetSdk = 32
-        applicationId = "org.isoron.uhabits"
+        targetSdk = 33
+        applicationId = "com.chargingwatts.atomichabits"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 

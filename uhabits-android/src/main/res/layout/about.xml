@@ -87,10 +87,10 @@
                     style="@style/About.Item.Clickable"
                     android:text="@string/pref_send_feedback"/>
 
-                <TextView
-                    android:id="@+id/tvTranslate"
-                    style="@style/About.Item.Clickable"
-                    android:text="@string/help_translate"/>
+<!--                <TextView-->
+<!--                    android:id="@+id/tvTranslate"-->
+<!--                    style="@style/About.Item.Clickable"-->
+<!--                    android:text="@string/help_translate"/>-->
 
                 <TextView
                     android:id="@+id/tvSource"
@@ -108,41 +108,10 @@
                 style="@style/Card"
                 android:gravity="center">
 
-                <TextView
-                    style="@style/CardHeader"
-                    android:text="@string/developers"
-                    android:textColor="?aboutScreenColor"/>
 
-                <!--
-                This file lists developers who contributed with at least 100 lines
-                of code or 5 commits to our code base, sorted by the number of commits.
-                All other contributors are acknowledge in the GitHub Contributors page,
-                linked at the bottom of the list. If you qualify, please feel free to
-                submit a pull request adding yourself here.
-                -->
-                <TextView style="@style/About.Item" android:text="Álinson S. Xavier (@iSoron)"/>
-                <TextView style="@style/About.Item" android:text="Quentin Hibon (@hiqua)"/>
-                <TextView style="@style/About.Item" android:text="Oleg Ivashchenko (@olegivo)"/>
-                <TextView style="@style/About.Item" android:text="Kristian Tashkov (@KristianTashkov)"/>
-                <TextView style="@style/About.Item" android:text="Jakub Kalinowski (@kalina559)"/>
-                <TextView style="@style/About.Item" android:text="Rechee Jozil (@recheej)"/>
-                <TextView style="@style/About.Item" android:text="Sebastian Gallese (@sgallese)"/>
-                <TextView style="@style/About.Item" android:text="Luboš Luňák (@llunak)"/>
-                <TextView style="@style/About.Item" android:text="Bindu (@vbh)"/>
-                <TextView style="@style/About.Item" android:text="Victor Yu (@vyu1)"/>
-                <TextView style="@style/About.Item" android:text="Christoph Hennemann (@chennemann)"/>
-                <TextView style="@style/About.Item" android:text="Денис (@sciamano)"/>
-                <TextView style="@style/About.Item" android:text="Joseph Tran (@JotraN)"/>
-                <TextView style="@style/About.Item" android:text="Nikhil (@regularcoder)"/>
-                <TextView style="@style/About.Item" android:text="JanetQC"/>
-                <TextView
-                        android:id="@+id/tvContributors"
-                        style="@style/About.Item.Clickable"
-                        android:text="@string/view_all_contributors"/>
 
             </LinearLayout>
 
-            <include layout="@layout/about_translators"/>
 
 >
         </LinearLayout>

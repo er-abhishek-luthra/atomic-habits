@@ -2,14 +2,14 @@
 <!--
   ~ Copyright (C) 2016-2021 Álinson Santos Xavier <git@axavier.org>
   ~
-  ~ This file is part of Loop Habit Tracker.
+  ~ This file is part of Atomic Habit Tracker.
   ~
-  ~ Loop Habit Tracker is free software: you can redistribute it and/or modify
+  ~ Atomic Habit Tracker is free software: you can redistribute it and/or modify
   ~ it under the terms of the GNU General Public License as published by the
   ~ Free Software Foundation, either version 3 of the License, or (at your
   ~ option) any later version.
   ~
-  ~ Loop Habit Tracker is distributed in the hope that it will be useful, but
+  ~ Atomic Habit Tracker is distributed in the hope that it will be useful, but
   ~ WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
   ~ or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for
   ~ more details.
@@ -18,7 +18,7 @@
   ~ with this program. If not, see <http://www.gnu.org/licenses/>.
   -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">„Loop“ — праћење навика</string>
+    <string name="app_name">„Atomic“ — праћење навика</string>
     <string name="main_activity_title">Навике</string>
     <string name="action_settings">Поставке</string>
     <string name="edit">Уређивање</string>
@@ -64,7 +64,7 @@
     <string name="check">Потврди</string>
     <string name="snooze">Касније</string>
     <string name="intro_title_1">Добро дошли</string>
-    <string name="intro_description_1">„Loop“ вам помаже да створите и одржите здраве навике.</string>
+    <string name="intro_description_1">„Atomic“ вам помаже да створите и одржите здраве навике.</string>
     <string name="intro_title_2">Створите нове навике</string>
     <string name="intro_description_2">Сваког дана, након што обавите зацртано, откачите поље у апликацији.</string>
     <string name="intro_title_4">Пратите свој напредак</string>

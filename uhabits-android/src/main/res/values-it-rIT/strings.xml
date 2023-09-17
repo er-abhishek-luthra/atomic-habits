@@ -2,14 +2,14 @@
 <!--
   ~ Copyright (C) 2016-2021 Álinson Santos Xavier <git@axavier.org>
   ~
-  ~ This file is part of Loop Habit Tracker.
+  ~ This file is part of Atomic Habit Tracker.
   ~
-  ~ Loop Habit Tracker is free software: you can redistribute it and/or modify
+  ~ Atomic Habit Tracker is free software: you can redistribute it and/or modify
   ~ it under the terms of the GNU General Public License as published by the
   ~ Free Software Foundation, either version 3 of the License, or (at your
   ~ option) any later version.
   ~
-  ~ Loop Habit Tracker is distributed in the hope that it will be useful, but
+  ~ Atomic Habit Tracker is distributed in the hope that it will be useful, but
   ~ WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
   ~ or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for
   ~ more details.
@@ -18,7 +18,7 @@
   ~ with this program. If not, see <http://www.gnu.org/licenses/>.
   -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Loop - Tracciatore di Abitudine</string>
+    <string name="app_name">Atomic - Tracciatore di Abitudine</string>
     <string name="main_activity_title">Abitudini</string>
     <string name="action_settings">Impostazioni</string>
     <string name="edit">Modifica</string>
@@ -60,7 +60,7 @@
     <string name="check">Completa</string>
     <string name="snooze">Più tardi</string>
     <string name="intro_title_1">Benvenuto</string>
-    <string name="intro_description_1">Loop Habit Tracker ti aiuta a creare e mantenere delle buone abitudini.</string>
+    <string name="intro_description_1">Atomic Habit Tracker ti aiuta a creare e mantenere delle buone abitudini.</string>
     <string name="intro_title_2">Aggiungi qualche nuova abitudine</string>
     <string name="intro_description_2">Ogni giorno, dopo aver portato a termine la tua abitudine, spuntala nell\'app.</string>
     <string name="intro_title_4">Segui i tuoi progressi</string>

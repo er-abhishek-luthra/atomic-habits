@@ -2,14 +2,14 @@
 <!--
   ~ Copyright (C) 2016-2021 Álinson Santos Xavier <git@axavier.org>
   ~
-  ~ This file is part of Loop Habit Tracker.
+  ~ This file is part of Atomic Habit Tracker.
   ~
-  ~ Loop Habit Tracker is free software: you can redistribute it and/or modify
+  ~ Atomic Habit Tracker is free software: you can redistribute it and/or modify
   ~ it under the terms of the GNU General Public License as published by the
   ~ Free Software Foundation, either version 3 of the License, or (at your
   ~ option) any later version.
   ~
-  ~ Loop Habit Tracker is distributed in the hope that it will be useful, but
+  ~ Atomic Habit Tracker is distributed in the hope that it will be useful, but
   ~ WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
   ~ or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for
   ~ more details.
@@ -18,7 +18,7 @@
   ~ with this program. If not, see <http://www.gnu.org/licenses/>.
   -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Loop Habit Tracker</string>
+    <string name="app_name">Atomic Habit Tracker</string>
     <string name="main_activity_title">Kebiasaan</string>
     <string name="action_settings">Pengaturan</string>
     <string name="edit">Ubah</string>
@@ -56,7 +56,7 @@
     <string name="check">Centang</string>
     <string name="snooze">Tunda</string>
     <string name="intro_title_1">Selamat datang</string>
-    <string name="intro_description_1">Loop Habit Tracker membantu menciptakan dan memelihara Kebiasaan baikmu.</string>
+    <string name="intro_description_1">Atomic Habit Tracker membantu menciptakan dan memelihara Kebiasaan baikmu.</string>
     <string name="intro_title_2">Buat beberapa Kebiasaan baru</string>
     <string name="intro_description_2">Berikan tanda centang setiap kali kamu selesai melakukannya.</string>
     <string name="intro_title_4">Lacak perkembanganmu</string>

@@ -1,29 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--
-  ~ Copyright (C) 2016-2021 Álinson Santos Xavier <git@axavier.org>
-  ~
-  ~ This file is part of Loop Habit Tracker.
-  ~
-  ~ Loop Habit Tracker is free software: you can redistribute it and/or modify
-  ~ it under the terms of the GNU General Public License as published by the
-  ~ Free Software Foundation, either version 3 of the License, or (at your
-  ~ option) any later version.
-  ~
-  ~ Loop Habit Tracker is distributed in the hope that it will be useful, but
-  ~ WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
-  ~ or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for
-  ~ more details.
-  ~
-  ~ You should have received a copy of the GNU General Public License along
-  ~ with this program. If not, see <http://www.gnu.org/licenses/>.
-  -->
 
 <resources
     xmlns:tools="http://schemas.android.com/tools"
     tools:ignore="MissingTranslation">
 
-    <string name="app_name" >Loop Habit Tracker</string>
-    <string name="main_activity_title">Habits</string>
+    <string name="app_name" >Atomic Habit Tracker</string>
+    <string name="main_activity_title">Atomic Habits</string>
     <string name="action_settings">Settings</string>
     <string name="edit">Edit</string>
     <string name="delete">Delete</string>
@@ -65,7 +47,7 @@
     <string name="check">Check</string>
     <string name="snooze">Later</string>
     <string name="intro_title_1">Welcome</string>
-    <string name="intro_description_1">Loop Habit Tracker helps you create and maintain good habits.</string>
+    <string name="intro_description_1">Atomic Habit Tracker helps you create and maintain good habits.</string>
     <string name="intro_title_2">Create some new habits</string>
     <string name="intro_description_2">Every day, after performing your habit, put a checkmark on the app.</string>
     <string name="intro_title_4">Track your progress</string>

@@ -2,14 +2,14 @@
 <!--
   ~ Copyright (C) 2016-2021 Álinson Santos Xavier <git@axavier.org>
   ~
-  ~ This file is part of Loop Habit Tracker.
+  ~ This file is part of Atomic Habit Tracker.
   ~
-  ~ Loop Habit Tracker is free software: you can redistribute it and/or modify
+  ~ Atomic Habit Tracker is free software: you can redistribute it and/or modify
   ~ it under the terms of the GNU General Public License as published by the
   ~ Free Software Foundation, either version 3 of the License, or (at your
   ~ option) any later version.
   ~
-  ~ Loop Habit Tracker is distributed in the hope that it will be useful, but
+  ~ Atomic Habit Tracker is distributed in the hope that it will be useful, but
   ~ WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
   ~ or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for
   ~ more details.
@@ -18,7 +18,7 @@
   ~ with this program. If not, see <http://www.gnu.org/licenses/>.
   -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Loop - Alışkanlık Takip Uygulaması</string>
+    <string name="app_name">Atomic - Alışkanlık Takip Uygulaması</string>
     <string name="main_activity_title">Alışkanlıklar</string>
     <string name="action_settings">Ayarlar</string>
     <string name="edit">Düzenle</string>
@@ -60,7 +60,7 @@
     <string name="check">İşaretle</string>
     <string name="snooze">Sonra</string>
     <string name="intro_title_1">Hoşgeldin</string>
-    <string name="intro_description_1">Loop Alışkanlık Takibi, iyi alışkanlıklar edinmene ve sürdürmene yardımcı olur.</string>
+    <string name="intro_description_1">Atomic Alışkanlık Takibi, iyi alışkanlıklar edinmene ve sürdürmene yardımcı olur.</string>
     <string name="intro_title_2">Yeni alışkanlıklar oluştur</string>
     <string name="intro_description_2">Alışkanlığın gerçekleştiği günleri işaretle.</string>
     <string name="intro_title_4">Gelişimini takip et</string>
@@ -120,7 +120,7 @@
     <string name="habits_imported">Alışkanlıklar başarıyla içeri aktarıldı.</string>
     <string name="import_data">İçeri veri aktar</string>
     <string name="export_full_backup">Tüm yedeği dışarı aktar</string>
-    <string name="import_data_summary">Loop tarafından oluşturulan yedeklemelerin yanı sıra Tickmate, HabitBull veya Rewire tarafından oluşturulan yedeklemeler da desteklenir. Detaylı bilgi için SSS bölümüne bak.</string>
+    <string name="import_data_summary">Atomic tarafından oluşturulan yedeklemelerin yanı sıra Tickmate, HabitBull veya Rewire tarafından oluşturulan yedeklemeler da desteklenir. Detaylı bilgi için SSS bölümüne bak.</string>
     <string name="export_as_csv_summary">Microsoft Excel veya OpenOffice Calc. tarafından açılabilen bir dosya oluşturur. Bu dosya tekrar içeri aktarılamaz.</string>
     <string name="export_full_backup_summary">Tüm verilerini içeren bir dosya oluştur. Bu dosya tekrar içeri aktarılabilir.</string>
     <string name="bug_report_failed">Hata raporu oluşturulamadı.</string>

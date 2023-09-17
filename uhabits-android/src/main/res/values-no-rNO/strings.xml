@@ -2,14 +2,14 @@
 <!--
   ~ Copyright (C) 2016-2021 Álinson Santos Xavier <git@axavier.org>
   ~
-  ~ This file is part of Loop Habit Tracker.
+  ~ This file is part of Atomic Habit Tracker.
   ~
-  ~ Loop Habit Tracker is free software: you can redistribute it and/or modify
+  ~ Atomic Habit Tracker is free software: you can redistribute it and/or modify
   ~ it under the terms of the GNU General Public License as published by the
   ~ Free Software Foundation, either version 3 of the License, or (at your
   ~ option) any later version.
   ~
-  ~ Loop Habit Tracker is distributed in the hope that it will be useful, but
+  ~ Atomic Habit Tracker is distributed in the hope that it will be useful, but
   ~ WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY
   ~ or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for
   ~ more details.
@@ -18,7 +18,7 @@
   ~ with this program. If not, see <http://www.gnu.org/licenses/>.
   -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
-    <string name="app_name">Loop Vaneoversikt</string>
+    <string name="app_name">Atomic Vaneoversikt</string>
     <string name="main_activity_title">Vaner</string>
     <string name="action_settings">Innstillinger</string>
     <string name="edit">Redigér</string>
@@ -43,7 +43,7 @@
     <string name="check">Sjekk</string>
     <string name="snooze">Senere</string>
     <string name="intro_title_1">Velkommen</string>
-    <string name="intro_description_1">Loop Vaneoversikt hjelper deg med å lage og beholde gode vaner.</string>
+    <string name="intro_description_1">Atomic Vaneoversikt hjelper deg med å lage og beholde gode vaner.</string>
     <string name="intro_title_2">Lag noen nye vaner</string>
     <string name="intro_description_2">Hver dag, etter du utfører vanen din, sett en hake på appen.</string>
     <string name="intro_title_4">Hold oversikt over fremgangen din</string>
