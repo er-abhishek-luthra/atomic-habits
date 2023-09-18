@@ -186,19 +186,19 @@
                 android:title="Enable developer mode"
                 app:iconSpaceReserved="false" />
 
-        <EditTextPreference
-            android:defaultValue="@string/syncBaseURL"
-            android:key="pref_sync_base_url"
-            android:title="Sync server"
-            app:iconSpaceReserved="false"
-            />
+<!--        <EditTextPreference-->
+<!--            android:defaultValue="@string/syncBaseURL"-->
+<!--            android:key="pref_sync_base_url"-->
+<!--            android:title="Sync server"-->
+<!--            app:iconSpaceReserved="false"-->
+<!--            />-->
 
-        <EditTextPreference
-            android:defaultValue=""
-            android:key="pref_sync_key"
-            android:title="Sync key"
-            app:iconSpaceReserved="false"
-            />
+<!--        <EditTextPreference-->
+<!--            android:defaultValue=""-->
+<!--            android:key="pref_sync_key"-->
+<!--            android:title="Sync key"-->
+<!--            app:iconSpaceReserved="false"-->
+<!--            />-->
 
         <EditTextPreference
             android:defaultValue=""

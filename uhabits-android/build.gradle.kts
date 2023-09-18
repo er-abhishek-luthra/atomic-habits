@@ -34,8 +34,8 @@ android {
     compileSdk = 32
 
     defaultConfig {
-        versionCode = 143
-        versionName = "1.4.3"
+        versionCode = 145
+        versionName = "1.4.5"
         minSdk = 28
         targetSdk = 33
         applicationId = "com.chargingwatts.atomichabits"
